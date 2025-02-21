@@ -1,0 +1,563 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "4e3809ca-ef6c-11ef-abf5-d4548b111f10",
+    "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-50e5da9ef71be7dec0eb08d5522a35f923f3ccc3.jpg",
+        "paste-9e31a598d8110660dbe8089f26cfa322d4c8b8f2.jpg"
+    ],
+    "name": "mycology",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 991874920854447928,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1529952001305201627,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@20d5bf3",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8159597958868431343,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "جنس دیواره سلولی قارچ ها؟<br>کدام جز دیواره موجب افتراق بین گونه ها می شود؟",
+                "کیتین گلوکان مانان<br>گلوکان"
+            ],
+            "guid": "N6mUI3oXOX",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هضم قارچ ها درون سلولی است یا خارج سلولی؟",
+                "خارج سلولی"
+            ],
+            "guid": "O>{dgJ6/{t",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ترکیب منحصر به فرد غشای سلولی قارچ ها چیست؟",
+                "ارگواسترول"
+            ],
+            "guid": "D./PZ)wdg}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مهمترین محل هدف داروهای ضد قارچی چیست؟",
+                "ارگواسترول"
+            ],
+            "guid": "Fa.[,^s3{a",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیش ساز ویتامین دی در قارچ ها",
+                "ارگواسترول ها در معرض UV"
+            ],
+            "guid": "fm1J%9Qu^D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آیا قارچی فاقد ارگواسترول موجود است؟",
+                "بله فقط یکی<br>پنوموسیتیس کارینی"
+            ],
+            "guid": "gv];Uh;zqh",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ذخیره.های غذایی قارچ ها چیست؟",
+                "گلیکوژن<br>چربی (ترافل)"
+            ],
+            "guid": "NB[ga-?y6b",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنفس قارچ ها توسط چه اندامکی انجام می شود؟",
+                "بیشتر واکوئل تغذیه ای<br>کمی میتوکندری"
+            ],
+            "guid": "w`#yd$pPR[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "میسلیوم چیست ؟",
+                "رشته های نازک قارچ های پر سلولی<br>تثبیت کننده ی CO2"
+            ],
+            "guid": "Ia.X6|#;oU",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قارچ سیب زمینی یا ترافل حاصل چه تولید مثلی است؟",
+                "جنسی"
+            ],
+            "guid": "AP![vXY`~_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مهمترین تفاوت قارچ ها با گیاهان؟",
+                "توانایی فتوسنتز"
+            ],
+            "guid": "P1>WeFRq^<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل برفک دهان",
+                "مخمر کاندیدا"
+            ],
+            "guid": "gmyV`8|%L*",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل مخمر نان و فلور نرمال گوارشی؟",
+                "ساکارومایسس سرویزیه"
+            ],
+            "guid": "ONJQC}TNZv",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "یک قارچ تخمیر کننده",
+                "آسپرژیلوس"
+            ],
+            "guid": "PU59%,Utxb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آمانتیا سمی است یا خوراکی؟",
+                "سمی"
+            ],
+            "guid": "Oc8V/OA@E|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انزیم پکتیناز چه کاربردی دارد و از چه قارچی تامین میشود؟",
+                "برای شفاف کردن ابمیوه و مشروب در صنعت<br>قارچ آسپرژیلوس"
+            ],
+            "guid": "x=rr?aVrPj",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قارچ گرم منفی هستند یا مثبت؟",
+                "مثبت"
+            ],
+            "guid": "f`/JPl]1(c",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دسته بندی قارچ ها براساس فرم",
+                "Yeast<br>Yeast-like<br>Dimorphism پاتوژن دوشکلی<br>Mold<br>Rust زنگ گیاه<br>Mushrooms "
+            ],
+            "guid": "y#03}mjojU",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ترکیب دیواره قارچ ها عمدتا ..... و باکتری ها عمدتا ......",
+                "پلی ساکارید<br>پلی پپتید"
+            ],
+            "guid": "qN^:UbBsYs",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Three nutritional modes:",
+                "Saprophytic<br>Parasitic<br>Mutualistic"
+            ],
+            "guid": "v:v-HqKV-X",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو نمونه قارچ همزیست نام ببر",
+                "گلسنگ (قارچ و جلبک)<br>Myocorrhizae قارچ و ریشه گیاه"
+            ],
+            "guid": "BUA!OitvEt",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اکثر قارچ ها دو اسم دارند، چرا؟ چه تفاوتی بین دو اسم هست؟",
+                "در مرحله جنسی: تلومورف / در مرحله‌ی غیر جنسی: آنامورف<br>اسم تلومورف مقدم‌تره."
+            ],
+            "guid": "yocZb,bf*T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تولید مثل مخمر ها<br>کلنی مخمر ها",
+                "جوانه زدن (هیف تولید نمیکنند ولی اسپور (هاگ) دارن)<br>خامه ای"
+            ],
+            "guid": "B28u?Fgati",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کریپتوکوکوس نئوفرمنس چه نوع قارچی است؟",
+                "مخمر"
+            ],
+            "guid": "N}j#:a=jj7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی قارچ های مخمر مانند yeast-like ",
+                "دارای هیف کاذب pseudohyphae<br>بلاستوکونیدی طویل میشه (از سلول مادر جدا نمیشن ولی دیواره های عرضی بینشون هست که جلوی ارتباط سیتوپلاسمی میگیره)"
+            ],
+            "guid": "dlf>tOMB.n",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاندیدا البیکان چه فرم قارچی است؟",
+                "Yeast-like "
+            ],
+            "guid": "C]=h:/t%(6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هایفا<br>هایفی<br>میسلیوم<br>میسلیا",
+                "رشته های به وجود امده از تکثیر اسپور<br>مجموعه ی هایفا ها<br>توده هایفی<br>مجموعه میسلیوم<br><img src=\"paste-9e31a598d8110660dbe8089f26cfa322d4c8b8f2.jpg\">"
+            ],
+            "guid": "Fc[CM{-%E1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کپک ها<br>تولید مثل<br>کلنی<br>رشد",
+                "میسلیوم<br>پرزی یا پنبه ای یا مخملی یا پشمی<br>از انتهای راسی هیف به صورت طولی"
+            ],
+            "guid": "v_GN3;UFGE",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام قارچ ها با رویش هاگ (اسپور یا کونیدی) تولید مثل میکنند؟",
+                "بله"
+            ],
+            "guid": "OZgpqf(M2G",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع میسلیوم ها",
+                "بدون دیواره عرضی (coenocyte) -» زایگومایکوتا<br>با دیواره عرضی (septa) [دیواره شون به درد نمیخوره و هسته های جا به جا میشن] -» آسکومایکوتا<br>با تیغه میانی (هسته ها جابه جا میشن -» بازیدیومایکوتا"
+            ],
+            "guid": "D2;re9qn@F",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "رشد میسلیوم ها تنها به صورت .... است",
+                "طولی"
+            ],
+            "guid": "P.Y:iVDlKM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ایمنی هومورال توانایی مقابله با قارچ ها را .....",
+                "ندارد"
+            ],
+            "guid": "G=<g}MLiUn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کپک و بیماری با میسلیوم بدون دیواره عرضی",
+                "کپک سیاه نان<br>موکورومایکوزیس"
+            ],
+            "guid": "dugyoZWy:$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بزرگترین دسته قارچ ها",
+                "آسکومایکوتا"
+            ],
+            "guid": "A>o#?lAXoo",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اکثر saprophytes متعلق به کدام دسته اند",
+                "آسکومایکوتا "
+            ],
+            "guid": "Qbm:$4P0!H",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دولیپور ها چیستند؟<br>Clamp connection ",
+                "ساختمان های لوبیایی شکل دو طرف منفذ دیواره عرضی"
+            ],
+            "guid": "MGrD&xo-uz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عالی ترین دسته قارچ ها",
+                "بازیدیومایکوتا"
+            ],
+            "guid": "w?+=15cSJv",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی قارچ های پاتوژن دو شکلی یا dimorphism ",
+                "فرم رشته ای در محیط طبیعی و فرم مخمری در بافت میزبان"
+            ],
+            "guid": "yO&t@oMZ2%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قارچ ها را با کدام نوع میسلیوم تشخیص میدهیم؟<br>زایشی یا رویشی",
+                "زایشی (رویشی داخل میزبانه)"
+            ],
+            "guid": "m3Kn1Xwo]@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شکل mushrooms ",
+                "<img src=\"paste-50e5da9ef71be7dec0eb08d5522a35f923f3ccc3.jpg\">"
+            ],
+            "guid": "dY=TLc/o#`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
